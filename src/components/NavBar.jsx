@@ -1,10 +1,10 @@
 
-import style from "./NavBar.module.css";
+import styles from "./NavBar.module.css";
 
 const NavBar = () => {
 
 
-    return <nav className="navBar">
+    return <nav className={styles.navBar}>
         
     </nav>
 }
